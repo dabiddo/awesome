@@ -1,8 +1,5 @@
 ### Coding Playgrounds
 
-As my 1st post, I wanted to share a list of on line sandboxes where one can play and test the latest features for certain programming languages, or to just test a code snippet.
-
-
 
 ##### Content
 
