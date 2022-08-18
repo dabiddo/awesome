@@ -41,3 +41,7 @@ This site focuses more on HTML and vanilla JS snippets, you can add JS libraries
 
 This sandbox support multiple languages like Rust / Java etc, but only on CLI mode, you can use it mostly to test functions, or when following a tutorial.
 
+
+### [Countries of the World](https://github.com/dr5hn/countries-states-cities-database)
+
+This repo contains the list of countries, states and cities of the world, contstantly updated, and in many formats such as JSON and SQL
